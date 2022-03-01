@@ -1,10 +1,30 @@
-## Hi there 👋
-*************************************************************************************************
-- 🔭 I’m currently working on building an ePortfolio
-- 🌱 I’m currently learning MEAN - MongoDB, Express.js, AngularJS, NodeJS
-- 👯 I’m looking to collaborate on projects involving full-stack development
-- 📫 How to reach me: https://www.linkedin.com/in/racheljdietz/
-- 😄 Pronouns: she / her
-- ⚡ Fun fact: I'm an FLL Mentor guiding students on software engineering and robot construction
-*************************************************************************************************
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact)](https://github.com/racheljdietz/github-readme-stats)
+![Banner](banner.png)
+# Hello, World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">
+### Glad to see you :wink: ![Visitor Count](https://komarev.com/ghpvc/?username=racheljdietz&label=View+Count) &nbsp; 
+>I'm Rachel, a soon-to-be gradutating 🎓 computer science student at Rowan University. I’m currently learning 🌱 MEAN - MongoDB, Express.js, AngularJS, NodeJS. I'm passionate about learning and exploring new technologies. I love a good problem-solving challenge💡- whether it be troubleshooting code 👨🏻‍💻 or trying to figure out a new route at the climbing gym 🧗. I'm currently into Web Development 🕸️ and working on building an ePortfolio 🤓. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racheljdietz/)](https://www.linkedin.com/in/racheljdietz)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbcae)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbcae)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc66)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc66)
+![](https://img.shields.io/badge/Tools-Mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc66)
+![](https://img.shields.io/badge/Tools-Neo4j-informational?style=flat&logo=Neo4j&logoColor=white&color=2bbc66)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc66)
+![](https://img.shields.io/badge/OS-Unbuntu-informational?style=flat&logo=CentOS&logoColor=white&color=2bbc42)
+![](https://img.shields.io/badge/OS-Unix-informational?style=flat&logoColor=white&color=2bbc42)
+![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=CentOS&logoColor=white&color=2bbc42)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc42)
+
+## 📈 GitHub Stats
+![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=racheljdietz&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact)](https://github.com/racheljdietz/github-readme-stats) 
