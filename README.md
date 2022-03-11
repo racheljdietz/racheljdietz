@@ -26,5 +26,8 @@
 ![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=CentOS&logoColor=white&color=2bbc42)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc42)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📈 GitHub Stats
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=racheljdietz&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact)](https://github.com/racheljdietz/github-readme-stats) 
