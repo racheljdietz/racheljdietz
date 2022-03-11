@@ -37,7 +37,6 @@
 ## 📈 GitHub Stats
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=racheljdietz&show_icons=true' height="175px"> 
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact' height="175px">
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=racheljdietz&theme=light' height="175px">
-  <img src='https://activity-graph.herokuapp.com/graph?username=racheljdietz&bg_color=ffffff&color=001685&line=33286c&point=c920d5&area=true&hide_border=true' height="175px">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact' height="175px" width="385px">
 </div>
