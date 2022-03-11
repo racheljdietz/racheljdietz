@@ -35,9 +35,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=racheljdietz&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/racheljdietz/github-profile-trophy#about-rank)
 
 ## 📈 GitHub Stats
-<div>
-  <img src='https://github-readme-stats.vercel.app/api?username=racheljdietz&show_icons=true'  align="left" height="175px">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact'  height="175px">
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=racheljdietz&theme=dark'  align="left" height="175px">
-  <img src='https://activity-graph.herokuapp.com/graph?username=racheljdietz&theme=react-dark&bg_color=20232a&hide_border=true' height="175px">
+<div align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=racheljdietz&show_icons=true' align="left" height="175px"> 
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=racheljdietz&theme=light' height="175px">
+  <img src='https://activity-graph.herokuapp.com/graph?username=racheljdietz&bg_color=ffffff&color=001685&line=33286c&point=c920d5&area=true&hide_border=true'  align="left" height="175px">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact' height="175px">
 </div>
