@@ -1,7 +1,12 @@
 ![Banner](banner.png)
 # Hello, World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">
 ### Glad to see you :wink: ![Visitor Count](https://komarev.com/ghpvc/?username=racheljdietz&label=View+Count) &nbsp; 
->I'm Rachel, a soon-to-be gradutating 🎓 computer science student at Rowan University. I’m currently learning 🌱 MEAN - MongoDB, Express.js, AngularJS, NodeJS. I'm passionate about learning and exploring new technologies. I love a good problem-solving challenge💡- whether it be troubleshooting code 👨🏻‍💻 or trying to figure out a new route at the climbing gym 🧗. I'm currently into Web Development 🕸️ and working on building an ePortfolio 🤓. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racheljdietz/)](https://www.linkedin.com/in/racheljdietz)
+>I'm Rachel, a soon-to-be graduating 🎓 computer science student at Rowan University. I’m currently learning 🌱 MEAN - MongoDB, Express.js, AngularJS, NodeJS. I'm passionate about learning and exploring new technologies. I love a good problem-solving challenge💡whether it be troubleshooting code 👨🏻‍💻 or trying to figure out a new route at the climbing gym 🧗. I'm currently into Web Development 🕸️ and working on building an ePortfolio 🤓. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racheljdietz/)](https://www.linkedin.com/in/racheljdietz)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbcae)
@@ -26,8 +31,13 @@
 ![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=CentOS&logoColor=white&color=2bbc42)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc42)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 🥇 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=racheljdietz&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/racheljdietz/github-profile-trophy#about-rank)
 
 ## 📈 GitHub Stats
-![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=racheljdietz&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact)](https://github.com/racheljdietz/github-readme-stats) 
+<div>
+  <img src='https://github-readme-stats.vercel.app/api?username=racheljdietz&show_icons=true'  align="left" height="175px">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=racheljdietz&layout=compact'  height="175px">
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=racheljdietz&theme=dark'  align="left" height="175px">
+  <img src='https://activity-graph.herokuapp.com/graph?username=racheljdietz&theme=react-dark&bg_color=20232a&hide_border=true' height="175px">
+</div>
