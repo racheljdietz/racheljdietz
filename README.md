@@ -3,6 +3,7 @@
 ### Glad to see you :wink: ![Visitor Count](https://komarev.com/ghpvc/?username=racheljdietz&label=View+Count) &nbsp; 
 >I'm Rachel, a soon-to-be graduating 🎓 computer science student at Rowan University. I’m currently learning 🌱 MEAN - MongoDB, Express.js, AngularJS, NodeJS. I'm passionate about learning and exploring new technologies. I love a good problem-solving challenge💡whether it be troubleshooting code 👨🏻‍💻 or trying to figure out a new route at the climbing gym 🧗. I'm currently into Web Development 🕸️ and working on building an ePortfolio 🤓. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racheljdietz/)](https://www.linkedin.com/in/racheljdietz)
 
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
@@ -16,7 +17,6 @@ GitIgnore file         7 mins          ▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbcae)
