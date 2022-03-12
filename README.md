@@ -4,6 +4,16 @@
 >I'm Rachel, a soon-to-be graduating 🎓 computer science student at Rowan University. I’m currently learning 🌱 MEAN - MongoDB, Express.js, AngularJS, NodeJS. I'm passionate about learning and exploring new technologies. I love a good problem-solving challenge💡whether it be troubleshooting code 👨🏻‍💻 or trying to figure out a new route at the climbing gym 🧗. I'm currently into Web Development 🕸️ and working on building an ePortfolio 🤓. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racheljdietz/)](https://www.linkedin.com/in/racheljdietz)
 
 <!--START_SECTION:waka-->
+
+```text
+Java                   8 hrs 15 mins   █████████████▒░░░░░░░░░░░   53.66 %
+XML                    4 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+Groovy                 1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Python                 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Properties             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+GitIgnore file         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
