@@ -1,7 +1,6 @@
-![Banner](banner.png)
 # Hello, World! <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">
 ### Glad to see you :wink: ![Visitor Count](https://komarev.com/ghpvc/?username=racheljdietz&label=View+Count) &nbsp; 
->I'm Rachel, a software engineer and full stack developer. I’m currently learning 🌱 MEAN - MongoDB, Express.js, AngularJS, NodeJS. I'm passionate about learning and exploring new technologies. I love a good problem-solving challenge💡whether it be troubleshooting code 👨🏻‍💻 or trying to figure out a new route at the climbing gym 🧗. I'm currently into Web Development 🕸️ and working on building an ePortfolio 🤓. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racheljdietz/)](https://www.linkedin.com/in/racheljdietz)
+>I'm Rachel, a software engineer and full stack developer. I love a good problem-solving challenge💡whether it be troubleshooting code 👨🏻‍💻 or trying to figure out a new route at the climbing gym 🧗. I'm currently into Web Development 🕸️ and working on building an ePortfolio 🤓. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/racheljdietz/)](https://www.linkedin.com/in/racheljdietz)
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
@@ -42,9 +41,6 @@ Git Config   28 mins         ▓░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/OS-Unix-informational?style=flat&logoColor=white&color=2bbc42)
 ![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=CentOS&logoColor=white&color=2bbc42)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc42)
-
-## 🥇 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=racheljdietz&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/racheljdietz/github-profile-trophy#about-rank)
 
 ## 📈 GitHub Stats
 <div>
