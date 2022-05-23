@@ -6,14 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2022 - To: 21 May 2022
+From: 15 May 2022 - To: 22 May 2022
 
-JavaScript   39 mins         █████████████▓░░░░░░░░░░░   54.29 %
-HTML         12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Java         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-Markdown     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Python       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Java   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
