@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 June 2022 - To: 07 July 2022
+From: 01 July 2022 - To: 08 July 2022
 
 TypeScript   14 mins         ██████████████████▓░░░░░░   74.41 %
 HTML         4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
